@@ -406,7 +406,7 @@ public class FragmentNewsItemsList extends FragmentMeta implements ZCFragmentLif
                     if (recordsPictures.size() > 0) {
 
                         map = recordsPictures.get(0);
-                        picture = map.get(MainActivity.DB_COL_PATH_ORIG);
+                        picture = map.get(MainActivity.DB_COL_PATH_TH);
                     }
 
                     MLog.log("Title = " + title + ", Picture = " + picture);

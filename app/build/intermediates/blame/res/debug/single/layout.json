@@ -36,12 +36,12 @@
         "source": "/Users/hrushim/StudioProjects/Zoncon_Publishing_Morningmist/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/Users/hrushim/StudioProjects/Zoncon_Publishing_Morningmist/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/Users/hrushim/StudioProjects/Zoncon_Publishing_Morningmist/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Publishing_Morningmist/app/build/intermediates/res/merged/debug/layout/fragment_payment_cart.xml",
         "source": "/Users/hrushim/StudioProjects/Zoncon_Publishing_Morningmist/app/src/main/res/layout/fragment_payment_cart.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Publishing_Morningmist/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Publishing_Morningmist/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_multichoice_material.xml"
     },
     {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Publishing_Morningmist/app/build/intermediates/res/merged/debug/layout/fragment_shop_itemslist.xml",

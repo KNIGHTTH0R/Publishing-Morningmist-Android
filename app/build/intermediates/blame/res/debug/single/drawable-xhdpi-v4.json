@@ -512,12 +512,12 @@
         "source": "/Users/hrushim/StudioProjects/Zoncon_Publishing_Morningmist/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/res/drawable-xhdpi/ic_plusone_standard_off_client.png"
     },
     {
-        "merged": "/Users/hrushim/StudioProjects/Zoncon_Publishing_Morningmist/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/loading0.jpg",
-        "source": "/Users/hrushim/StudioProjects/Zoncon_Publishing_Morningmist/app/src/main/res/drawable-xhdpi/loading0.jpg"
-    },
-    {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Publishing_Morningmist/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg.jpg",
         "source": "/Users/hrushim/StudioProjects/Zoncon_Publishing_Morningmist/app/src/main/res/drawable-xhdpi/bg.jpg"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Publishing_Morningmist/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/loading0.jpg",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Publishing_Morningmist/app/src/main/res/drawable-xhdpi/loading0.jpg"
     },
     {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Publishing_Morningmist/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notif_background.xml",
